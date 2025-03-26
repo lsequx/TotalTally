@@ -3,9 +3,9 @@ import React from 'react';
 
 function Header() {
     return (
-        <div className='container'>
-            <img src='../assets/logo.png' />
-        </div>
+      <div className="container header">
+        <img src="/logo.png" className="logo" />;
+      </div>
     );
 }
 
