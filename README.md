@@ -21,3 +21,11 @@ A simple React-based counter application that allows users to enter the quantity
    ```sh
    git clone https://github.com/lsequx/TotalTally.git
    cd TotalTally
+## Dependencies
+2. Install Dependencies
+   ```sh
+   npm install
+
+## Start development server
+   ```sh
+   npm start
