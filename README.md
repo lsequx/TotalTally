@@ -6,7 +6,7 @@
 [![React](https://img.shields.io/badge/React-18.0.0-blue?logo=react)](https://react.dev/) 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple?logo=bootstrap)](https://getbootstrap.com/) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue)](https://github.com/lsequx/TotalTally)
 
 
