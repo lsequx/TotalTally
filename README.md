@@ -2,14 +2,8 @@
 
 A simple React-based counter application that allows users to enter the quantity of different bill denominations and calculates the total amount in real time.
 
-### Features
-- Users can enter the number of bills they have for each denomination.
-- The total amount updates dynamically as the user inputs values.
-- Input validation ensures only numeric values are accepted.
-- Displays the total amount with comma separators for better readability.
-- Uses Bootstrap for a clean and responsive UI.
-- Includes a header component displaying a logo.
-
+### Objective Solution
+    Say goodbye to the hassle of manually counting large stacks of bills. TotalTally provides an effortless way to calculate your total amount instantly as you enter the quantity of each denomination, ensuring accuracy and efficiency. 
 #### Technologies Used
 - React.js
 - Bootstrap (for styling)
