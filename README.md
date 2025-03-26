@@ -1,8 +1,8 @@
-# Counter App
+# TotalTally
 
 A simple React-based counter application that allows users to enter the quantity of different bill denominations and calculates the total amount in real time.
 
-## Features
+### Features
 - Users can enter the number of bills they have for each denomination.
 - The total amount updates dynamically as the user inputs values.
 - Input validation ensures only numeric values are accepted.
@@ -10,22 +10,23 @@ A simple React-based counter application that allows users to enter the quantity
 - Uses Bootstrap for a clean and responsive UI.
 - Includes a header component displaying a logo.
 
-## Technologies Used
+#### Technologies Used
 - React.js
 - Bootstrap (for styling)
 - JavaScript (ES6+)
 - HTML & CSS
 
-## Installation & Setup
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/lsequx/TotalTally.git
-   cd TotalTally
-## Dependencies
-2. Install Dependencies
-   ```sh
-   npm install
+### Installation & Setup
+Clone the repository:
 
-## Start development server
-   ```sh
-   npm start
+    git clone https://github.com/lsequx/TotalTally.git
+    cd TotalTally
+
+### Dependencies
+Install Dependencies
+
+    npm install
+
+### Start development server
+
+    npm start
