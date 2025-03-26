@@ -1,13 +1,13 @@
 # TotalTally
 
 
-## Badges
+## Badges  
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+![React](https://img.shields.io/badge/React-18.0.0-blue?logo=react)  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple?logo=bootstrap)  
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
+![Version](https://img.shields.io/badge/Version-1.0.0-blue)  
 
 A simple React-based counter application that allows users to enter the quantity of different bill denominations and calculates the total amount in real time.
 
