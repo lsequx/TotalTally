@@ -5,7 +5,7 @@
 
 ![React](https://img.shields.io/badge/React-18.0.0-blue?logo=react)  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple?logo=bootstrap)  ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  ![Version](https://img.shields.io/badge/Version-1.0.0-blue)  
 
-A simple React-based counter application that allows users to enter the quantity of different bill denominations and calculates the total amount in real time.
+A simple React-based counter application that allows users to enter the quantity of different bill denominations and calculates the total amount in real time. Eventually will be interacted with the flask backend for additional features.
 
 ### Objective Solution
 ##### Say goodbye to the hassle of manually counting large stacks of bills. TotalTally provides an effortless way to calculate your total amount instantly as you enter the quantity of each denomination, ensuring accuracy and efficiency. 
