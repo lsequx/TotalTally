@@ -24,3 +24,8 @@ Install Dependencies
 ### Start development server
 
     npm start
+
+## Updates to come
+- Login/Sign Up
+- Link w/ Bank for tracking expenses and budgeting
+  ... ;)
