@@ -19,5 +19,5 @@ A simple React-based counter application that allows users to enter the quantity
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/counter-app.git
-   cd counter-app
+   git clone https://github.com/lsequx/TotalTally.git
+   cd TotalTally
